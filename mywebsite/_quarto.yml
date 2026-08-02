@@ -1,0 +1,68 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bergenhuizen et al."
+  sidebar:
+    style: floating
+    pinned: false
+    headroom: false
+    align: center
+    logo: images/profile.png
+
+    tools:
+      - icon: envelope
+        href: "mailto:bergenhuizen.lucas@gmail.com"
+
+      - icon: github
+        href: "https://github.com"
+
+      - icon: globe
+        href: "https://www.researchgate.net/profile/Lucas-Bergenhuizen-2?ev=hdr_xprf"
+
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/lucas-bergenhuizen/"
+
+      - icon: person-badge
+        href: "https://orcid.org/0009-0005-5104-6839"
+
+  navbar:
+    pinned : false
+    right:
+      - href: about.qmd
+        text: About
+
+      - text: Contributions
+        menu:
+          - href: contributions.qmd
+            text: Overview
+          - href: reap2sow.qmd
+            text: 🫛 REAP2SOW 
+          - href: sea2land.qmd
+            text: 🥦 SEA2LAND
+          - href: biofair.qmd
+            text: 🌾 BIOFAIR
+
+      - href: sci-com.qmd
+        text: Science Communication
+
+      - href: blog.qmd
+        text: Blog
+        
+      - href: gallery.qmd
+        text: Gallery
+
+format:
+  html:
+    theme:
+    - custom_theme.scss
+    smooth-scroll: true
+    link-external-newwindow: true
+    number-sections: false
+    toc: true
+    toc-title: "Table of contents"
+    toc-depth: 4
+    toc-location: right
+    css: styles.css
+    self-contained: false

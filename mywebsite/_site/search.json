@@ -1,0 +1,366 @@
+[
+  {
+    "objectID": "sea2land.html#work-package-5-agronomic-studies",
+    "href": "sea2land.html#work-package-5-agronomic-studies",
+    "title": "SEA2LAND : Production of advanced bio-based fertilisers (BBFs) from fishery waste",
+    "section": "Work Package 5 : Agronomic studies",
+    "text": "Work Package 5 : Agronomic studies\nWP5 focused on the evaluation of the BBFs performance on cropping systems, through the study of nutrient mineralisation rates, pH-changes and greenhouse gas (GHG) emissions in incubation experiments. Nutrient uptakes were also evulated in greenhouse and field experiments and the agronomic and environmental performances were studied under contrasting environmental conditions across Europe.\n\nAn Ecotron experiment to evaluate new BBFs under future climate 🌡️🌦️\nMy master’s thesis consisted in setting up a climate-controlled mesocosm experiment to study the efficiency and environmental impact of these newly produced fish-based fertilizers on … broccoli 🥦. But why broccoli ? Even if it looks a bit random, there’s an increasing demand for this crop on the world market due to its high nutritional value, and it was commonly grown across the various project’s partners, all the way from Norway to Spain. And let’s be honest it’s also way better looking than wheat (sorry wheat lovers). Anyway, a big motivation behind this project was that studies integrating climate resilience and cropping system compatibility into (bio-)fertilizer development were still pretty scarce. However such assessement could help anticipate potential fertilizer weaknesses and develop formulations which meet the dual challenge of maintaining agricultural productivity and reducing environmental harm under “unusual” climate scenarios. Here below I will guide you through the main steps and key findings of this work.\n\nSetting up the experiment: step 1) dig baby, dig !\nThe thing with climate-controlled experiments is … you most of the time have to bring the field/ecosystem to a climate facility, and the bigger the scale, the bigger the excavation. This experimental design required filling 56 cubes (50x50cm) with suitable field soil and keep them as intact as possible to not disturb the lil microbes and other bigger inhabitants (we did our best). Here below you can see (A) a fully extracted trench, (B) posing between two cube screwing sessions and (C) a supervisor showing how you get it done 🤸‍♀\n\n\n\nSetting up the experiment: step 2) Back to TERRA\nLuckily, our field was not so far from our research center (TERRA) hosting the Ecotron facility. After transporting all these cubes, we (A) placed them accordingly on the platforms, (B) let them acclimatize to the climate chambers before setting up all the devices (incl. rhizons for pore water sampling and PVC tubes for GHG emissions measurements), applying the fertilizers and planting the broccolis. The following weeks were then dedicatd to measuring, monitoring and watering the cubes displayed across the six climate chambers (C).\n\n\n\nWhat did we test and what did we look at exactly ?\nAll the newly produced bio-fertilizers differed greatly in terms of origins, formulation and nutrient content (A).The goal was to assess and compare the efficiency of these fertilizers to a synthetic one (SYN) in terms of plant performance (measured as nutrient efficiencies for N and P and other relevant plant parameters) and in terms of environmental impact (we looked at soil N₂O & CO₂ emissions, plant-available nitrate (NO₃⁻) and overall soil enzymatic activity) on each cube replicate (B). While this is already a great objective on its own, the TERRA-Ecotron was specifically chosen to test these products under strongly contrasted climate scenarios (C). One scenario serving as a control climate aiming to provide a favorable environment for crop growth and fertilizer uptake, and a future projection of meteorological conditions characterized by higher atmospheric CO₂ concentrations, higher temperatures and more intense rain/drought events.\n\n\n\nWhat did we find out ?\nOn these figures (A), each BBF is compared to SYN, thus a shift in the green zone means higher values for BBFs compared to SYN, with blue or red colours referring to the climate scenario. Interstingly, crop production parameters such as nitrogen, phosphorus use efficiencies and yield (here measured as plant biomass and head fresh weight) were similar or lower for plants receiving BBFs compared to SYN in the reference climate (blue lines), but similar or higher for BBFs compared to SYN in the future climate (red lines shifting into the green zone). Meaning: plants receiving BBFs tend to do better than synthetically fertilised plants in the future. However, we also observed severe yield penalties in the future climate (B) with lower values for all fertilizers (here by comparing the data between climates, a shift into the green zone would refer to higher values in the future climate).\n\nNow what about the soil ? Did the microbes survive this dramatic 2095 future climate ? Of course they did ! Mechanistically, we saw that cropping systems fertilized with BBFs benefited from enhanced soil microbial activity compared to SYN in both climates (C), but concurrently also had higher N₂O & CO₂ emissions (panel (A), all comparisons of SYN to BBFs showed similar or higher estimates). While it is generally predicted that N₂O emissions from agricultural land will increase in the future (due to higher temperatures inceasing denitrifiers activity), in this experiment, mostly decreased fluxes were observed in the future climate (right side panel (A) for climate comparison). We can explain that by the drier soil conditions in the future climate, which has been previously linked to reduced soil N₂O emissions (lower moisture levels = more oxygen available = reduced denitrification = decreased emissions). Despite these drier conditions, plant available soil nitrate was on average increased in the future climate (B), probably due to the heavier rainfalls but the risk of nitrate leaching was indifferent amongst fertilizers.\n\n\n\n\nThe limitations\nIn every study we have to acknowledge some limitations. A first important thing to remember with this work is that it was a typical case study experiment. Though we can justifiy every choice we made, we have a belgian soil from a very specific region, we tested only a single cultivar of one plant species, used new biofertilizers not yet fully replicable, used only one very specific synthetic control and applied a future climate scenario based on local climate data. Looking closely at the broad credible intervals, we know that the variance was systematically high in the data. Still, despite these limitations and the specificity of the system, we observed clear and interesting trends. And I think this is where the value of this type of exploratory research lies: not necessarily in immediately extrapolating the results to global large-scale systems, but in exploring original questions and identifying potential important mechanisms to generate new ideas and hypotheses for future work. If such trends can already emerge in our very specific belgian context, it means there may be even stronger effects once the system is better optimized and studied under a wider range of conditions.\n\n\nThe conclusion\nThis study revealed a complex interplay between climate and fertilizers stressing the importance of considering the multifactorial nature of climate change and dynamic interactions between fertilizers, plants, soils and soil organisms. While these results support BBFs as agronomic alternatives to SYN, especially under harsher climatic conditions, further research is needed to address climate-induced yield penalties, ensure efficiency across diverse pedo-climatic contexts and improve their environmental footprint. We suggested for instance to start selecting cultivars based on their compatibility with BBFs, rather than only on their climate-resilience. To optimize BBFs implementation, designing experiments including interacting factors such variety × soil × management × season interactions would help indentifying the different trades-off and synergies. Further research could also take the production processes and related resource and energy use into account to efficiently assess the environmental viability of BBFs.\n\n\nWant to check some things in more detail ? 👇\nIf you are curious about the methods, statistical analysis or more in depth-results and discussions of this study, here is the link to the full article :\nBio-based fertilizers can reach agronomic performance of synthetic fertilizer in broccoli production under two climate scenarios. Bergenhuizen L., et al. (2026)\nEnvironmental Research: Food Systems\nA poster was also made if you want to share the (very) summarized version of this work :\nBenefits of bio-based fertilisers (BBFs) despite yield penalties under future climate scenario. Bergenhuizen L., et al. (2025)\nRecycling of Agricultural, Municipal and Industrial Residues in Agriculture Network (RAMIRAN), Wageningen 15-17 October 2025\n\n\nThank you for reading 🥦"
+  },
+  {
+    "objectID": "sci-com.html",
+    "href": "sci-com.html",
+    "title": "Science Communication",
+    "section": "",
+    "text": "This section is dedicated to making small reviews, sharing and simplifying papers or concepts that I find particularly interesting and that might be useful for your own research too !\n\n\nAll\n\n\nSoil processes\n\n\n\nPlant-soil interactions\n\n\n\nPlant-plant interactions\n\n\n\nTo the rhizosphere\n\n\n\nAgriculture\n\n\n\nCommunity Ecology\n\n\n\nMicrobes\n\n\n\nBotany\n\n\n\n\n\n\n\n  \n    \n    \n      Plants have a social life too\n      June 28, 2026\n    \n  \n\n\n\n\n\n\n\n\nConferences, workshops & seminars"
+  },
+  {
+    "objectID": "plant_catalogue.html",
+    "href": "plant_catalogue.html",
+    "title": "My Plant Catalogue",
+    "section": "",
+    "text": "Here you can find a depository of my most precious botanical anectodes. Every plant has a story to tell, don’t get me wrong. But the way we connect with them is deeply personal. What fascinates one person may not always move another. Depending on your background and your own relationship with plants, you may (or not) leave this place with a new sense of wonder.\nI am for instance a violet freak. I have loved these plant since my childhood and smelling their delicate fragrance always left me with a sense of joy. Though violets are modest plants with a rather simple structure, I also find them incredibly elegant and fascinating. So, while browsing this catalogue, do not be surprised to encounter quite a few of them once you reach the “V” section. If you prefer a more spontaneous approach, you can also use this magic button to randomly pick a plant card. Maybe you’ll learn something!\n\n\nMagic button, show me a random plant\n\n\n\n\n\n\nNB: If you ever visit the places where these pictures were taken in search of the species presented here, please note that I cannot guarantee they are still there, as I am not fully aware of the evolution of these botanical collections (or mother nature’s gardening plans).\nA | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z"
+  },
+  {
+    "objectID": "plant_catalogue.html#A",
+    "href": "plant_catalogue.html#A",
+    "title": "My Plant Catalogue",
+    "section": "A",
+    "text": "A"
+  },
+  {
+    "objectID": "plant_catalogue.html#B",
+    "href": "plant_catalogue.html#B",
+    "title": "My Plant Catalogue",
+    "section": "B",
+    "text": "B"
+  },
+  {
+    "objectID": "plant_catalogue.html#C",
+    "href": "plant_catalogue.html#C",
+    "title": "My Plant Catalogue",
+    "section": "C",
+    "text": "C"
+  },
+  {
+    "objectID": "plant_catalogue.html#D",
+    "href": "plant_catalogue.html#D",
+    "title": "My Plant Catalogue",
+    "section": "D",
+    "text": "D"
+  },
+  {
+    "objectID": "plant_catalogue.html#E",
+    "href": "plant_catalogue.html#E",
+    "title": "My Plant Catalogue",
+    "section": "E",
+    "text": "E"
+  },
+  {
+    "objectID": "plant_catalogue.html#F",
+    "href": "plant_catalogue.html#F",
+    "title": "My Plant Catalogue",
+    "section": "F",
+    "text": "F"
+  },
+  {
+    "objectID": "plant_catalogue.html#G",
+    "href": "plant_catalogue.html#G",
+    "title": "My Plant Catalogue",
+    "section": "G",
+    "text": "G"
+  },
+  {
+    "objectID": "plant_catalogue.html#H",
+    "href": "plant_catalogue.html#H",
+    "title": "My Plant Catalogue",
+    "section": "H",
+    "text": "H"
+  },
+  {
+    "objectID": "plant_catalogue.html#I",
+    "href": "plant_catalogue.html#I",
+    "title": "My Plant Catalogue",
+    "section": "I",
+    "text": "I"
+  },
+  {
+    "objectID": "plant_catalogue.html#J",
+    "href": "plant_catalogue.html#J",
+    "title": "My Plant Catalogue",
+    "section": "J",
+    "text": "J"
+  },
+  {
+    "objectID": "plant_catalogue.html#K",
+    "href": "plant_catalogue.html#K",
+    "title": "My Plant Catalogue",
+    "section": "K",
+    "text": "K"
+  },
+  {
+    "objectID": "plant_catalogue.html#L",
+    "href": "plant_catalogue.html#L",
+    "title": "My Plant Catalogue",
+    "section": "L",
+    "text": "L"
+  },
+  {
+    "objectID": "plant_catalogue.html#M",
+    "href": "plant_catalogue.html#M",
+    "title": "My Plant Catalogue",
+    "section": "M",
+    "text": "M\n\nMaxillaria tenuifolia Lindl.\n\n\n\nMelaleuca citrina (Curtis) Dum.Cours."
+  },
+  {
+    "objectID": "plant_catalogue.html#N",
+    "href": "plant_catalogue.html#N",
+    "title": "My Plant Catalogue",
+    "section": "N",
+    "text": "N"
+  },
+  {
+    "objectID": "plant_catalogue.html#O",
+    "href": "plant_catalogue.html#O",
+    "title": "My Plant Catalogue",
+    "section": "O",
+    "text": "O"
+  },
+  {
+    "objectID": "plant_catalogue.html#P",
+    "href": "plant_catalogue.html#P",
+    "title": "My Plant Catalogue",
+    "section": "P",
+    "text": "P\n\nPassiflora foetida L."
+  },
+  {
+    "objectID": "plant_catalogue.html#Q",
+    "href": "plant_catalogue.html#Q",
+    "title": "My Plant Catalogue",
+    "section": "Q",
+    "text": "Q"
+  },
+  {
+    "objectID": "plant_catalogue.html#R",
+    "href": "plant_catalogue.html#R",
+    "title": "My Plant Catalogue",
+    "section": "R",
+    "text": "R"
+  },
+  {
+    "objectID": "plant_catalogue.html#S",
+    "href": "plant_catalogue.html#S",
+    "title": "My Plant Catalogue",
+    "section": "S",
+    "text": "S\n\nStylidium debile F.Muell."
+  },
+  {
+    "objectID": "plant_catalogue.html#T",
+    "href": "plant_catalogue.html#T",
+    "title": "My Plant Catalogue",
+    "section": "T",
+    "text": "T"
+  },
+  {
+    "objectID": "plant_catalogue.html#U",
+    "href": "plant_catalogue.html#U",
+    "title": "My Plant Catalogue",
+    "section": "U",
+    "text": "U"
+  },
+  {
+    "objectID": "plant_catalogue.html#V",
+    "href": "plant_catalogue.html#V",
+    "title": "My Plant Catalogue",
+    "section": "V",
+    "text": "V\n\nViola canadensis L."
+  },
+  {
+    "objectID": "plant_catalogue.html#W",
+    "href": "plant_catalogue.html#W",
+    "title": "My Plant Catalogue",
+    "section": "W",
+    "text": "W"
+  },
+  {
+    "objectID": "plant_catalogue.html#X",
+    "href": "plant_catalogue.html#X",
+    "title": "My Plant Catalogue",
+    "section": "X",
+    "text": "X"
+  },
+  {
+    "objectID": "plant_catalogue.html#Y",
+    "href": "plant_catalogue.html#Y",
+    "title": "My Plant Catalogue",
+    "section": "Y",
+    "text": "Y"
+  },
+  {
+    "objectID": "plant_catalogue.html#Z",
+    "href": "plant_catalogue.html#Z",
+    "title": "My Plant Catalogue",
+    "section": "Z",
+    "text": "Z"
+  },
+  {
+    "objectID": "hortus.html#hortus-botanicus-amsterdam",
+    "href": "hortus.html#hortus-botanicus-amsterdam",
+    "title": "Bergenhuizen et al.",
+    "section": "Hortus Botanicus Amsterdam",
+    "text": "Hortus Botanicus Amsterdam"
+  },
+  {
+    "objectID": "hortus.html#a-brief-history",
+    "href": "hortus.html#a-brief-history",
+    "title": "Bergenhuizen et al.",
+    "section": "A brief history",
+    "text": "A brief history"
+  },
+  {
+    "objectID": "contributions.html",
+    "href": "contributions.html",
+    "title": "Scientific contributions",
+    "section": "",
+    "text": "This section showcases my scientific contributions from different projects with graphical abstracts, key findings, data visuals and behind the scenes content 📹"
+  },
+  {
+    "objectID": "contributions.html#projects",
+    "href": "contributions.html#projects",
+    "title": "Scientific contributions",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n\n\nREAP2SOW\nPlant-soil interactions in novel protein crops\n\n\n\n\n\n\n\n\n\nSEA2LAND\nBio-based fertilizers for the broccoli of the future\n\n\n\n\n\n\n\n\n\nBIOFAIR\nA geogradient of contrasted wheat agrosystems"
+  },
+  {
+    "objectID": "contributions.html#publications",
+    "href": "contributions.html#publications",
+    "title": "Scientific contributions",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n2026\n\n\nBio-based fertilizers can reach agronomic performance of synthetic fertilizer in broccoli production under two climate scenarios  • Environmental Research: Food Systems \n\n\nLucas Bergenhuizen, Vincent Leemans, Jimmy Bin, Caroline De Clerck, Pierre Delaplace, Jingsi Zhang, Çağri Akyol, Marta Aranguren, Miriam Pinto, Matthias Waibel, Sarah Symanczik, Bente Foereid, Hervé Vanderschuren, Cécile Thonar and Jennifer Michel"
+  },
+  {
+    "objectID": "botaliege.html#a-brief-history",
+    "href": "botaliege.html#a-brief-history",
+    "title": "The Botancial Garden of Liège",
+    "section": "A brief history",
+    "text": "A brief history\nThe history of its creation is a genuine Liège-style saga, marked by budget cuts and construction works that were significantly delayed. The construction of the botanical garden started in 1841 and included greenhouses inspired by the Victorian English style. However, only two years after work had started, construction was halted in 1843 due to a lack of funding. At that point, only one third of the original project had been completed (A), including the foundations, the central greenhouses, and a rotunda (a circular greenhouse).\nCharles Morren, the former director and initiator of the project, fell ill in 1856 and died in 1858. His son, Edouard Morren, succeeded him. In 1875, the academic council decided to transfer several institutes onto the site of the unfinished botanical garden, including the departments of botany, zoology, and comparative anatomy. The construction of these new institutes progressed slowly, but work on the greenhouses finally resumed after these chaotic developments in 1881, that is, 40 years after the original project had begun. This new construction phase introduced E-shaped greenhouses below the first greenhouse complex, and a second rotunda on the left was added, as a replica of the one built on the right side forty years earlier, both separated by an ornamental terrace. The works ultimately led to the inauguration of the complex in 1883 (B), three years before the death of Edouard Morren in 1886.\n\nBy the beginning of the twentieth century, the entire site could reasonably be considered fully operational, with no major architectural changes to report. By the mid-twentieth century, the greenhouses housed around 7,600 specimens representing 2,370 plant species, including remarkable collections of Bromeliads assembled by the Morren family, which continued to be studied by botanists from the University.This prosperous period came to an abrupt end during the Second World War, in the winter of 1944, when a bomb destroyed part of the greenhouses and highly damadged the rotundas, later taken down, and resulting in the loss of numerous plant species. Only a partial reconstruction was carried out in 1954 because the compensation received for war damages was insufficient to fully restore the complex. Despite this setback, the site remained an important center for scientific research. In 1950, Professor Raymond Bouillenne launched the first phytotron in Europe, and it continued operating until 1981. Here below you can see a cool archive footage of the gardens and the phytotron, featuring the water cooling and ligthing systems.\n\n\n\n\n  \n\n\n\n\nAnother important event took place in 1961, when part of the botanical garden’s collections was transferred to newer and more modern greenhouses on the new science campus located at the Sart-Tilman, above the city. Around the same time, the fences surrounding the garden and its park were removed, allowing the former botanical garden to become a public park managed by the City of Liège. The University continued to oversee the management of this heritage until 2014, before transferring responsibility to the Maison Liégeoise de l’Environnement (NPO). Since then, the site has officially been maintained by the volunteer association “Les Serres du Jardin Botanique”, which continues to preserve and share its history through a variety of activities and thematic visits. Nowadays, the E-shaped greenhouse complex (C) is still visitable and host an impressively diversified collection of plant, with two separated greenhouses dedicated to 1) carnivorous and peatland plants and 2) succulents and cacti. The historical main entrance on the top-side, now hosts “Le péristyle”, a lovely space including a small cabinet of curiosities, a botanical shop, and a greenhouse area where you can enjoy local drinks and snacks or a cup of coffee. More info over this little gem on their website and Facebook page."
+  },
+  {
+    "objectID": "botaliege.html#the-origins-of-vanillas-hand-pollination-a-belgian-legacy",
+    "href": "botaliege.html#the-origins-of-vanillas-hand-pollination-a-belgian-legacy",
+    "title": "The Botancial Garden of Liège",
+    "section": "​The origins of Vanilla’s hand-pollination: A Belgian legacy 🌿​",
+    "text": "​The origins of Vanilla’s hand-pollination: A Belgian legacy 🌿​\nI have another captivating story to share over a recently resurfacing fact about the Botanical Garden of Liège: this is where the first-ever artificial pollination of Vanilla was made and reported. In 1836, Charles Morren, botanist and director of the garden, became the first to successfully achieve artificial pollination of the Vanilla orchid (Vanilla planifolia). This work was performed at the former location of the garden, in the greenhouses located back then right behind the University’s main building. His meticulous experiments and subsequent publications laid the groundwork for global vanilla cultivation and that is also how he secured the necessary funds to build the new botanical garden. His pollination method, however, was very labour-intensive and consisted mainly in cross-pollinating two flowers to obtain the much-coveted pods. In 1841, a much more efficient self-pollinating technique was developed on the island of La Réunion by a twelve-year-old slave, Edmond Albius, another important prominent figure in the history of Vanilla cultivation who contributed to the market’s rapid expansion. On the pictures below you can see on (A) the first vanilla pods produced in 1837 and conserved in a glass bottle, (B) a picture of a greenhouse in the early 1900’s were we can see a Vanilla plant growing on the top left (the plant is still there nowadays, and DNA analyses are being done to check if it might be the descendant of the plant used by Morren for his experiments), (C) Edmond Albius’s portrait standing next to a Vanilla plant and (D) Charles Morren’s portrait.\n\nThis (re-)discovery was recently investigated by A. Karremans, Director of Lankester Botanical Garden and tropical botanist who traveled all the way from Costa Rica to Liège to retrace the history of Vanilla cultivation, which led to the publication of a very interesting article. If you’d like to learn more about it, here is the link: Karremans, A. P. (2024). A Historical Review of the Artificial Pollination of Vanilla planifolia: The Importance of Collaborative Research in a Changing World. Plants, 13(22), 3203."
+  },
+  {
+    "objectID": "biofair.html#biofair-biodiversity-of-soils-and-farming-innovations-for-improved-resilience-in-european-wheat-agrosystems",
+    "href": "biofair.html#biofair-biodiversity-of-soils-and-farming-innovations-for-improved-resilience-in-european-wheat-agrosystems",
+    "title": "Bergenhuizen et al.",
+    "section": "BIOFAIR : BIOdiversity of soils and FArming Innovations for improved Resilience in European wheat agrosystems",
+    "text": "BIOFAIR : BIOdiversity of soils and FArming Innovations for improved Resilience in European wheat agrosystems\nThe goal of BIOFAIR is to determine the impact of climate change on the functional soil biome, from microbes to mites, and to identify innovative farming practices that foster soil health and plant productivity in a sustainable way Link to the project website"
+  },
+  {
+    "objectID": "biofair.html#wp2-innovative-farming-practices-wp4-functional-soil-biodiversity",
+    "href": "biofair.html#wp2-innovative-farming-practices-wp4-functional-soil-biodiversity",
+    "title": "Bergenhuizen et al.",
+    "section": "WP2: Innovative farming practices & WP4: Functional soil biodiversity",
+    "text": "WP2: Innovative farming practices & WP4: Functional soil biodiversity\nWP2: A soil biodiversity survey is performed in different long-term field trials where innovative farming practices are compared to conventional practices. The studied factors in these trials have been shown to promote plant-soil interactions and concern 1) soil tillage intensity, 2) organic matter management, 3) nitrogen fertilization strategies and fertilizer placement, 4) use of nitrogen-rich organic fertilizers, 5) use of biostimulants and stress-protective micronutrients, 6) pre-crop selection and more generally 7) the system management (organic versus conventional system).Soil, root and rhizosphere samples are collected for biodiversity studies in WP4. Wheat grains thus produced will be analyzed for their qualitative composition and technological properties (WP5) which, compiled with the soil biodiversity survey, will highlight the farming innovations favoring climate sensitive taxa conservation and production of healthy and nutritious wheat grains.\nWP4 will analyze the biodiversity and functioning of soil communities in samples collected in the first three WPs. The targeted communities are 1) organisms of the soil and rhizosphere microbiome (soil bacteria and fungi including arbuscular mycorrhizal fungi) and 2) micro- and mesofauna (nematodes, tardigrades, collembolans, and mites). The structural biodiversity will be assessed by analyzing the abundance, diversity and community composition of phylogenetic and functional soil groups using molecular techniques such as qPCR and NGS, as well as direct morphological identification using specific soil sampling methods for representatives of different soil organisms.\nOne major objective of these tasks will be to determine which soil taxa and functional groups or traits are either sensitive, resistant or specific to climate change based on results obtained in the different Ecotron and field experiments. The approach used for this compiling work will comprise construction of co-occurrence networks where soil groups responding uniformly to a specific influence will be identified. In addition, the same soil samples will be analyzed for their potential to provide important ecosystem functions including soil disease suppression (protection of crops against soil-related disease or pests), carbon sequestration and nutrient cycling for optimal resources provisioning to crops.\n\nEffects of soil management and climate stressors on winter wheat (Triticum aestivum L.) cropping systems across a geographical gradient"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hi, I am Lucas",
+    "section": "",
+    "text": "After graduating from a Master in Bioscience Engineering in Agricultural Sciences at the University of Liège in Belgium, I worked as a research assistant at the Plant Genetics and Rhizosphere Processes Laboratory of Gembloux Agro-Bio Tech.\n\nMotivated by the desire to learn more about sustainable agriculture and how plants interact with their environment, I set out to find a research position in the Netherlands. After spending some time caught up in the relentless whirlwind of applications, I finally landed an incredible research opportunity within the REAP2SOW project.\n\nSince June 2026, I have been working as a PhD candidate on the impact of protein crops on soil functions and on the role of root exudates in soil carbon dynamics and climate resilience of these novel cropping systems at Wageningen University.\n\nBesides the academic grind, I am also a plant nerd who likes to visit and volunteer in Botanical Gardens and share fun facts about the plant world !\n\n    \n\n  \n\n\n\n\n\nOn this website, you’ll find a page dedicated to my scientific CONTRIBUTIONS with regular updates on my research project, a space on plant-soil related SCIENCE COMMUNICATION where you can find small literature reviews of key concepts and conference related content, a BLOG where I share more personal (but still pretty much plant-related) stuff, and finally a photo GALLERY to highlight some work-related moments.\n\n\n\nSince June 2026, I started my PhD within the REAP2SOW project. This stands for “Resilient and Efficient Agricultural Proteins to Sustain Our World”, a Dutch initiative that aims to develop sustainable, climate-resilient food systems by promoting novel plant-based protein crops that are not yet widely used in Europe (including quinoa, white lupin, and tuberous pea). My research work is part of the work package “Soil biodiversity and functioning”, where I’ll be investigating how these plants secretly feed microbes underground through their root exudates, and how this shapes soil properties such as carbon sequestration and porosity, ultimately affecting the system’s resilience towards climate change. We still don’t really know exactly what determines the prevailing effect of root exudates on these soil functions but it is very likely crop and soil dependent, and that’s what we aim to find out for these three novel protein crops on different type of soils (below I made a little visual if you’re curious about the more detailed cascading effects of root exudates on soil functioning).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n      June\n      2026\n    \n    \n      Milestone\n      \n      Joined the REAP2SOW project as a doctoral researcher, working on plant-soil interactions in novel protein crops.\n    \n  \n\n  \n    \n      Jan\n      2026\n    \n    \n      Milestone\n      \n      Very proud to announce that my first-ever scientific paper has been published in the context of the SEA2LAND H2020 Project ♻️🥦. This work feels particularly special to me, as it grew out of my master’s thesis at the TERRA-Ecotron and my research assistantship at the University of Liège. DOI 10.1088/2976-601X/ae2d5b."
+  },
+  {
+    "objectID": "about.html#about-this-website",
+    "href": "about.html#about-this-website",
+    "title": "Hi, I am Lucas",
+    "section": "",
+    "text": "On this website, you’ll find a page dedicated to my scientific CONTRIBUTIONS with regular updates on my research project, a space on plant-soil related SCIENCE COMMUNICATION where you can find small literature reviews of key concepts and conference related content, a BLOG where I share more personal (but still pretty much plant-related) stuff, and finally a photo GALLERY to highlight some work-related moments."
+  },
+  {
+    "objectID": "about.html#my-current-research-topic",
+    "href": "about.html#my-current-research-topic",
+    "title": "Hi, I am Lucas",
+    "section": "",
+    "text": "Since June 2026, I started my PhD within the REAP2SOW project. This stands for “Resilient and Efficient Agricultural Proteins to Sustain Our World”, a Dutch initiative that aims to develop sustainable, climate-resilient food systems by promoting novel plant-based protein crops that are not yet widely used in Europe (including quinoa, white lupin, and tuberous pea). My research work is part of the work package “Soil biodiversity and functioning”, where I’ll be investigating how these plants secretly feed microbes underground through their root exudates, and how this shapes soil properties such as carbon sequestration and porosity, ultimately affecting the system’s resilience towards climate change. We still don’t really know exactly what determines the prevailing effect of root exudates on these soil functions but it is very likely crop and soil dependent, and that’s what we aim to find out for these three novel protein crops on different type of soils (below I made a little visual if you’re curious about the more detailed cascading effects of root exudates on soil functioning)."
+  },
+  {
+    "objectID": "about.html#latest-news",
+    "href": "about.html#latest-news",
+    "title": "Hi, I am Lucas",
+    "section": "",
+    "text": "June\n      2026\n    \n    \n      Milestone\n      \n      Joined the REAP2SOW project as a doctoral researcher, working on plant-soil interactions in novel protein crops.\n    \n  \n\n  \n    \n      Jan\n      2026\n    \n    \n      Milestone\n      \n      Very proud to announce that my first-ever scientific paper has been published in the context of the SEA2LAND H2020 Project ♻️🥦. This work feels particularly special to me, as it grew out of my master’s thesis at the TERRA-Ecotron and my research assistantship at the University of Liège. DOI 10.1088/2976-601X/ae2d5b."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "A more personal space about plants, gardens and other green wonders",
+    "section": "",
+    "text": "This section is a lighter space for botanical curiosity and exploration. Apart from Botanical Gardens being little heavens on Earth, they’re also proven to boost your mental health! Having gotten into the habit of recharging my batteries in these places, I also enjoy sharing my love for the nation of plants with visitors. I am currently active at the Hortus of Amsterdam, the Botanical Gardens of the University of Utrecht and the Botanical Garden of Liège.Here I moslty display botanical and historical content. I also regularly update a Plant Catalogue where you can find pictures of plants that really made me think “wow” or “what the hell ?” or “this is SO COOL” along with some juicy anectodes. All pictures you’ll find there are taken by myself using a LUMIX G7K camera 📷 for close angles, or my phone 📱. This place is meant to be a sort of depository, I also display this content (and more) on this public Instagram account.\n\n     My Plant Catalogue \n Instagram Account \n\n\n\n\n\n\n\n\n\nI started volunteering at the the Botanical Garden of Liège in 2023 to learn more about plant conservation work and the educational approach specific to this type of institution. So having a lot of free time to spent before getting busy with my master’s thesis, I first did a scientific literature review to create content suited for information panels for the different greenhouses. During this volunteering period, I also gave my first guided tours and I kept doing so for a year, where I had a real pleasure sharing the history of the garden and other plant stories with the visitors.\n\nEven though I already had this first experience, I wanted to take a formal training to strengthen my theoretical knowledge and improve my educational skills. To do so, I did a bit of volunteering and spent some time at the Botanical Garden of Meise (aka Belgium’s national treasure). In Meise, I followed a 42 hours practical and theoretical training in Dutch held across various botanical gardens and arboreta in Flanders. There I learned a lot more about the educational roles of botanical gardens, guiding techniques, plant evolution, systematics, ecology, ethnobotany and ecological interactions (certificate).\n\nAfter moving to the Netherlands, it felt urgent to join another garden. And instead of joining one, I actually joined two. So I am now enrolled as a volunteer guide at the Hortus of Amsterdam and at the Botanical Gardens of the University of Utrecht where I try to regularly stay active and keep learning about their beautiful collections."
+  },
+  {
+    "objectID": "blog.html#botanical-gardens-cie",
+    "href": "blog.html#botanical-gardens-cie",
+    "title": "A more personal space about plants, gardens and other green wonders",
+    "section": "",
+    "text": "This section is a lighter space for botanical curiosity and exploration. Apart from Botanical Gardens being little heavens on Earth, they’re also proven to boost your mental health! Having gotten into the habit of recharging my batteries in these places, I also enjoy sharing my love for the nation of plants with visitors. I am currently active at the Hortus of Amsterdam, the Botanical Gardens of the University of Utrecht and the Botanical Garden of Liège.Here I moslty display botanical and historical content. I also regularly update a Plant Catalogue where you can find pictures of plants that really made me think “wow” or “what the hell ?” or “this is SO COOL” along with some juicy anectodes. All pictures you’ll find there are taken by myself using a LUMIX G7K camera 📷 for close angles, or my phone 📱. This place is meant to be a sort of depository, I also display this content (and more) on this public Instagram account.\n\n     My Plant Catalogue \n Instagram Account \n\n\n\n\n\n\n\n\n\nI started volunteering at the the Botanical Garden of Liège in 2023 to learn more about plant conservation work and the educational approach specific to this type of institution. So having a lot of free time to spent before getting busy with my master’s thesis, I first did a scientific literature review to create content suited for information panels for the different greenhouses. During this volunteering period, I also gave my first guided tours and I kept doing so for a year, where I had a real pleasure sharing the history of the garden and other plant stories with the visitors.\n\nEven though I already had this first experience, I wanted to take a formal training to strengthen my theoretical knowledge and improve my educational skills. To do so, I did a bit of volunteering and spent some time at the Botanical Garden of Meise (aka Belgium’s national treasure). In Meise, I followed a 42 hours practical and theoretical training in Dutch held across various botanical gardens and arboreta in Flanders. There I learned a lot more about the educational roles of botanical gardens, guiding techniques, plant evolution, systematics, ecology, ethnobotany and ecological interactions (certificate).\n\nAfter moving to the Netherlands, it felt urgent to join another garden. And instead of joining one, I actually joined two. So I am now enrolled as a volunteer guide at the Hortus of Amsterdam and at the Botanical Gardens of the University of Utrecht where I try to regularly stay active and keep learning about their beautiful collections."
+  },
+  {
+    "objectID": "botautrecht.html#a-brief-history",
+    "href": "botautrecht.html#a-brief-history",
+    "title": "The Botanical Gardens of the University of Utrecht",
+    "section": "A brief history",
+    "text": "A brief history"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "Highlights of the life of a plant-soil scientist 🧑‍🔬🌱🔬🌦️"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bergenhuizen et al.",
+    "section": "",
+    "text": "Lucas Bergenhuizen\n\n\nPhD Candidate in Plant-Soil Interactions 🌱🦠\n\n\n\n               \n\n\nI am a plant scientist with a huge interest in soils, agroecology, ecosystem functioning and more widely, botany. I am currently doing a PhD on plant-soil interactions in novel protein crops at Wageningen University. On this website, I will share some pieces of my academic journey but also some more personal content, so if you’re into sustainable agriculture, plant-soil dynamics or botancial fun facts, you might find some cool stuff here\n\n Learn more about me →"
+  },
+  {
+    "objectID": "reap2sow.html",
+    "href": "reap2sow.html",
+    "title": "Bergenhuizen et al.",
+    "section": "",
+    "text": "REAP2SOW aims to develop sustainable, climate-resilient food systems by promoting novel plant-based protein crops like quinoa, white lupin, and aardaker. These crops enhance biodiversity, improve soil health, and support the protein transition away from animal-based sources. The project integrates research on breeding, soil ecosystem functions, cultivation practices, consumer behavior, health impacts, and supply chains. Through its interlinked work packages, REAP2SOW focuses on genetic improvement, nutrient use efficiency, food safety, consumer acceptance, and historical insights. It emphasizes outreach to policymakers, farmers, and the public, fostering a resilient, sustainable food system for the Netherlands.\n\n\nThis work package focuses on how climate-resilient food systems and novel protein crops can enhance soil ecosystem functions, such as biodiversity, water stress resilience, and carbon sequestration. Soil organic carbon, supported by plant roots and the soil microbiome, is crucial for linking water-stress resistance and biodiversity. A well-functioning soil boosts crop resilience to pests and water stress by improving soil structure, carbon storage, and plant-microbe interactions. However, little is known about how increasing protein crop cultivation might impact soils. This WP will study the soil root interface and microbiomes to ensure the sustainability of protein crops while enhancing biodiversity."
+  },
+  {
+    "objectID": "reap2sow.html#reap2sow-resilient-and-efficient-agricultural-proteins-to-sustain-our-world",
+    "href": "reap2sow.html#reap2sow-resilient-and-efficient-agricultural-proteins-to-sustain-our-world",
+    "title": "Bergenhuizen et al.",
+    "section": "",
+    "text": "REAP2SOW aims to develop sustainable, climate-resilient food systems by promoting novel plant-based protein crops like quinoa, white lupin, and aardaker. These crops enhance biodiversity, improve soil health, and support the protein transition away from animal-based sources. The project integrates research on breeding, soil ecosystem functions, cultivation practices, consumer behavior, health impacts, and supply chains. Through its interlinked work packages, REAP2SOW focuses on genetic improvement, nutrient use efficiency, food safety, consumer acceptance, and historical insights. It emphasizes outreach to policymakers, farmers, and the public, fostering a resilient, sustainable food system for the Netherlands.\n\n\nThis work package focuses on how climate-resilient food systems and novel protein crops can enhance soil ecosystem functions, such as biodiversity, water stress resilience, and carbon sequestration. Soil organic carbon, supported by plant roots and the soil microbiome, is crucial for linking water-stress resistance and biodiversity. A well-functioning soil boosts crop resilience to pests and water stress by improving soil structure, carbon storage, and plant-microbe interactions. However, little is known about how increasing protein crop cultivation might impact soils. This WP will study the soil root interface and microbiomes to ensure the sustainability of protein crops while enhancing biodiversity."
+  },
+  {
+    "objectID": "reap2sow.html#work-package-3-soil-biodiversity-and-functioning",
+    "href": "reap2sow.html#work-package-3-soil-biodiversity-and-functioning",
+    "title": "Bergenhuizen et al.",
+    "section": "",
+    "text": "This work package focuses on how climate-resilient food systems and novel protein crops can enhance soil ecosystem functions, such as biodiversity, water stress resilience, and carbon sequestration. Soil organic carbon, supported by plant roots and the soil microbiome, is crucial for linking water-stress resistance and biodiversity. A well-functioning soil boosts crop resilience to pests and water stress by improving soil structure, carbon storage, and plant-microbe interactions. However, little is known about how increasing protein crop cultivation might impact soils. This WP will study the soil root interface and microbiomes to ensure the sustainability of protein crops while enhancing biodiversity."
+  },
+  {
+    "objectID": "Scicom/Bilas2020.html",
+    "href": "Scicom/Bilas2020.html",
+    "title": "Plants have a social life too",
+    "section": "",
+    "text": "Plants were traditionally seen as rather passive actors in their environment, interacting with each other only in so far as they competed for the same resources. In the last 30 years, this view has been spectacularly overturned, with a wealth of evidence showing that plants actively detect and respond to their neighbours."
+  },
+  {
+    "objectID": "Scicom/Bilas2020.html#references",
+    "href": "Scicom/Bilas2020.html#references",
+    "title": "Plants have a social life too",
+    "section": "References",
+    "text": "References"
+  }
+]

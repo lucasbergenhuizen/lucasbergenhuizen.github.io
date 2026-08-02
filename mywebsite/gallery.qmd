@@ -1,0 +1,21 @@
+---
+title: "Gallery"
+sidebar: false
+toc: false
+page-layout: full
+---
+
+Highlights of the life of a plant-soil scientist 🧑‍🔬🌱🔬🌦️
+
+<div style="
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+">
+
+  <img src="images/gallery/3.png" style="width: calc(33.333% - 4px); object-fit: cover;">
+  <img src="images/gallery/2.png" style="width: calc(33.333% - 4px); object-fit: cover;">
+  <img src="images/gallery/1.png" style="width: calc(33.333% - 4px); object-fit: cover;">
+
+</div>

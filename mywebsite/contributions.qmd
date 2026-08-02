@@ -1,0 +1,105 @@
+---
+title: "Scientific contributions"
+toc: false
+sidebar: false
+---
+
+This section showcases my scientific contributions from different projects with graphical abstracts, key findings, data visuals and behind the scenes content 📹 
+
+## Projects
+
+::: {.grid}
+
+::: {.g-col-4}
+
+<a href="reap2sow.qmd" style="text-decoration: none; color: inherit;">
+
+:::{.card}
+
+<img src="images/lupin.jpg" 
+     style="width: 100%; height: 180px; object-fit: cover; border-top-left-radius: 6px; border-top-right-radius: 6px;">
+
+<div style="padding: 15px;">
+
+#### REAP2SOW
+
+Plant-soil interactions in novel protein crops
+
+</div>
+
+:::
+
+</a>
+
+:::
+
+::: {.g-col-4}
+
+<a href="sea2land.qmd" style="text-decoration: none; color: inherit;">
+
+:::{.card}
+
+<img src="images/brocecotron.png" 
+     style="width: 100%; height: 180px; object-fit: cover; border-top-left-radius: 6px; border-top-right-radius: 6px;">
+
+<div style="padding: 15px;">
+
+#### SEA2LAND
+
+Bio-based fertilizers for the broccoli of the future
+
+</div>
+
+:::
+
+</a>
+
+:::
+
+::: {.g-col-4}
+
+<a href="biofair.qmd" style="text-decoration: none; color: inherit;">
+
+:::{.card}
+
+<img src="images/wheat.jpg" 
+     style="width: 100%; height: 180px; object-fit: cover; border-top-left-radius: 6px; border-top-right-radius: 6px;">
+
+<div style="padding: 15px;">
+
+#### BIOFAIR
+
+A geogradient of contrasted wheat agrosystems
+
+</div>
+
+:::
+
+</a>
+
+:::
+
+:::
+
+## Publications
+
+<a href="https://iopscience.iop.org/article/10.1088/2976-601X/ae2d5b" style="text-decoration: none; color: inherit;">
+
+::: {.pub-card}
+
+<div class="pub-year">
+2026
+</div>
+
+<div class="pub-title">
+Bio-based fertilizers can reach agronomic performance of synthetic fertilizer in broccoli production under two climate scenarios
+<span class="pub-journal">
+• Environmental Research: Food Systems
+</span>
+</div>
+
+<div class="pub-authors">
+**Lucas Bergenhuizen**, Vincent Leemans, Jimmy Bin, Caroline De Clerck, Pierre Delaplace, Jingsi Zhang, Çağri Akyol, Marta Aranguren, Miriam Pinto, Matthias Waibel, Sarah Symanczik, Bente Foereid, Hervé Vanderschuren, Cécile Thonar and Jennifer Michel
+</div>
+:::
+</a>

@@ -1,0 +1,96 @@
+---
+title: ""
+page-layout: full
+toc: false
+sidebar: false
+---
+
+<style>
+body {
+  overflow: hidden;
+}
+</style>
+
+<br><br>
+<div style="transform: scale(1.25); transform-origin: center top;">
+
+::: {.columns v-align="middle" style="height: 80vh; align-items: center; column-gap: 8.0rem;"}
+
+::: {.column width="50%"}
+
+<div style="
+  max-width: 420px;
+  margin-left: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: right;
+  height: 100%;
+">
+
+<p style="
+  font-size: 2.3rem;
+  font-weight: 500;
+  font-family: 'Figtree', sans-serif;
+  margin: 0;
+  line-height: 1.1;
+  white-space: nowrap;
+">
+Lucas Bergenhuizen
+</p>
+
+<p style="font-size: 0.9rem; font-family: 'Figtree', sans-serif; margin: 0 0 0.8rem 0; color: #444;">
+PhD Candidate in Plant-Soil Interactions 🌱🦠
+</p>
+
+<!-- ICONS -->
+<div style="
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: nowrap;
+  width: 100%;
+">
+  <a href="mailto:lucas.bergenhuizen@wur.nl" target="_blank" style="font-size: 1rem;"><i class="bi bi-envelope"></i></a> &nbsp;
+  <a href="https://github.com/lucasbergenhuizen" target="_blank" style="font-size: 1rem;"><i class="bi bi-github"></i></a> &nbsp;
+  <a href="https://scholar.google.com/citations?user=Hz5hD70AAAAJ&hl=en&oi=ao" target="_blank" style="font-size: 1rem;"><i class="bi bi-globe"></i></a> &nbsp;
+  <a href="https://www.researchgate.net/profile/Lucas-Bergenhuizen-2?ev=hdr_xprf" target="_blank" style="font-size: 1rem;"><i class="bi bi-mortarboard-fill"></i></a> &nbsp;
+  <a href="https://www.linkedin.com/in/lucas-bergenhuizen/" target="_blank" style="font-size: 1rem;"><i class="bi bi-linkedin"></i></a> &nbsp;
+  <a href="https://orcid.org/0009-0005-5104-6839" target="_blank" style="font-size: 1rem;"><i class="bi bi-person-badge"></i></a>
+</div>
+
+<p style="font-size: 0.7rem; font-family: 'Figtree', sans-serif; line-height: 1.5; margin-bottom: 1rem;">
+I am a plant scientist with a huge interest in soils, agroecology, ecosystem functioning and more widely, botany. I am currently doing a PhD on plant-soil interactions in novel protein crops at Wageningen University. On this website, I will share some pieces of my academic journey but also some more personal content, so if you're into sustainable agriculture, plant-soil dynamics or botancial fun facts, you might find some cool stuff here</p>
+
+<a href="about.qmd" class="custom-button">
+  Learn more about me →
+</a>
+
+</div>
+
+:::
+
+::: {.column width="40%"}
+
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+">
+
+<img src="images/profile.png"
+  style="
+    height: 80%;
+    max-height: 330px;
+    width: 90%;
+    border-radius: 50%;
+    object-fit: cover;
+  ">
+
+</div>
+
+:::
+
+:::

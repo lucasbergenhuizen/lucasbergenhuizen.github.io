@@ -1,0 +1,64 @@
+---
+title: "Plants have a social life too"
+sidebar: false
+toc: false
+author: Lucas Bergenhuizen
+date: 2026-06-28
+date-modified: 2026-06-26
+slug: socialplant-2026
+image: bilas2020.png
+categories:
+  - Plant-plant interactions
+  - Plant-soil interactions
+  - Community Ecology
+subtitle: "Plants actively detect and respond to their neighbours. Moreover, there is evidence that these responses depend on the identity of the neighbour, and that plants may cooperate with their kin, displaying social behaviour as complex as that observed in animals [(Bilas et al. 2020)](https://onlinelibrary.wiley.com/doi/10.1111/pce.13965)."
+include-in-header:
+  text: |
+    <style>
+    html, body {
+      overflow-x: hidden;
+    }
+    #quarto-content {
+      overflow-x: hidden;
+    }
+    #title-block-header {
+      position: relative;
+      isolation: isolate;
+      color: white;
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+    }
+    #title-block-header::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 50%;
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      width: 100vw;
+      background-image: url('/Scicom/bilas2020.png');
+      background-size: cover;
+      background-position: center;
+      box-shadow: inset 0 0 0 1000px rgba(0,38,66,0.75);
+      z-index: -1;
+    }
+    #title-block-header h1,
+    #title-block-header .subtitle,
+    #title-block-header .quarto-category,
+    #title-block-header p {
+      color: white !important;
+    }
+    #title-block-header .subtitle a {
+      color: white !important;
+      text-decoration: underline;
+    }
+    </style>
+---
+<br><br>
+
+Plants were traditionally seen as rather passive actors in their environment, interacting with each other only in so far as they competed for the same resources. In the last 30 years, this view has been spectacularly overturned, with a wealth of evidence showing that plants actively detect and respond to their neighbours.
+
+
+## References

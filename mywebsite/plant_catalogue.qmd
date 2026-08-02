@@ -1,0 +1,169 @@
+---
+title: "My Plant Catalogue"
+sidebar: false
+page-layout: full
+---
+<div style="text-align: justify;">
+
+Here you can find a depository of my most precious botanical anectodes. Every plant has a story to tell, don't get me wrong. But the way we connect with them is deeply personal. What fascinates one person may not always move another. Depending on your background and your own relationship with plants, you may (or not) leave this place with a new sense of wonder.
+
+I am for instance a violet freak. I have loved these plant since my childhood and smelling their delicate fragrance always left me with a sense of joy. Though violets are modest plants with a rather simple structure, I also find them incredibly elegant and fascinating. So, while browsing this catalogue, do not be surprised to encounter quite a few of them once you reach the “V” section. If you prefer a more spontaneous approach, you can also use this magic button to randomly pick a plant card. Maybe you'll learn something!
+
+<div style="text-align:center;">
+<button onclick="randomPlant()" class="btn btn-success">
+Magic button, show me a random plant
+</button>
+</div>
+
+<div id="random-output"></div>
+
+<br>
+
+NB: If you ever visit the places where these pictures were taken in search of the species presented here, please note that I cannot guarantee they are still there, as I am not fully aware of the evolution of these botanical collections (or mother nature's gardening plans).
+
+</div>
+
+<br>
+
+<a href="#A">A</a> |
+<a href="#B">B</a> |
+<a href="#C">C</a> |
+<a href="#D">D</a> |
+<a href="#E">E</a> |
+<a href="#F">F</a> |
+<a href="#G">G</a> |
+<a href="#H">H</a> |
+<a href="#I">I</a> |
+<a href="#J">J</a> |
+<a href="#K">K</a> |
+<a href="#L">L</a> |
+<a href="#M">M</a> |
+<a href="#N">N</a> |
+<a href="#O">O</a> |
+<a href="#P">P</a> |
+<a href="#Q">Q</a> |
+<a href="#R">R</a> |
+<a href="#S">S</a> |
+<a href="#T">T</a> |
+<a href="#U">U</a> |
+<a href="#V">V</a> |
+<a href="#W">W</a> |
+<a href="#X">X</a> |
+<a href="#Y">Y</a> |
+<a href="#Z">Z</a>
+
+---
+
+## A {#A}
+
+## B {#B}
+
+## C {#C}
+
+## D {#D}
+
+## E {#E}
+
+## F {#F}
+
+## G {#G}
+
+## H {#H}
+
+## I {#I}
+
+## J {#J}
+
+## K {#K}
+
+## L {#L}
+
+## M {#M}
+
+<div class="plant-card">
+
+### *Maxillaria tenuifolia Lindl.*
+
+![](images/plantcatalogue/maxillariatenuifolia.png){width=400px}
+
+</div>
+
+<div class="plant-card">
+
+### *Melaleuca citrina (Curtis) Dum.Cours.*
+
+![](images/plantcatalogue/melaleucacitrina.png){width=400px}
+
+</div>
+
+## N {#N}
+
+## O {#O}
+
+## P {#P}
+
+<div class="plant-card">
+
+### *Passiflora foetida L.*
+
+![](images/plantcatalogue/passiflorafoetida.png){width=400px}
+
+</div>
+
+## Q {#Q}
+
+## R {#R}
+
+## S {#S}
+
+<div class="plant-card">
+
+### *Stylidium debile F.Muell.*
+
+![](images/plantcatalogue/stylidiumdebile.png){width=400px}
+
+</div>
+
+## T {#T}
+
+## U {#U}
+
+## V {#V}
+
+<div class="plant-card">
+
+### *Viola canadensis L.*
+
+![](images/plantcatalogue/violacanadensis.png){width=400px}
+
+</div>
+
+## W {#W}
+
+## X {#X}
+
+## Y {#Y}
+
+## Z {#Z}
+
+<script>
+
+function randomPlant() {
+
+  const cards = document.querySelectorAll('.plant-card img');
+
+  const randomIndex = Math.floor(Math.random() * cards.length);
+
+  const chosenImg = cards[randomIndex].src;
+
+  document.getElementById('random-output').innerHTML = `
+    <img src="${chosenImg}" 
+         style="
+           width: 800px;
+           border-radius: 12px;
+           margin-top: 20px;
+         ">
+  `;
+}
+
+</script>
