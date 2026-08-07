@@ -8,14 +8,14 @@ page-layout: full
 ## REAP2SOW: Resilient and Efficient Agricultural Proteins to Sustain Our World
 <div style="text-align: justify;">
 
-REAP2SOW aims to develop sustainable, climate-resilient food systems by promoting novel plant-based protein crops like quinoa, white lupin, and aardaker. These crops enhance biodiversity, improve soil health, and support the protein transition away from animal-based sources. The project integrates research on breeding, soil ecosystem functions, cultivation practices, consumer behavior, health impacts, and supply chains. Through its interlinked work packages, REAP2SOW focuses on genetic improvement, nutrient use efficiency, food safety, consumer acceptance, and historical insights. It emphasizes outreach to policymakers, farmers, and the public, fostering a resilient, sustainable food system for the Netherlands.
+REAP2SOW aims to develop sustainable, climate-resilient food systems by promoting novel plant-based protein crops like quinoa, white lupin, and aardaker. These crops have great potential to enhance biodiversity, improve soil health, and support the protein transition away from animal-based sources. Through its interlinked workpackages, the project integrates research on breeding, soil ecosystem functions, cultivation practices, consumer behavior, health impacts, historical perspectives and supply chains. 
 
 ## Work package 3 : Soil biodiversity and functioning
 
-This work package focuses on how climate-resilient food systems and novel protein crops can enhance soil ecosystem functions, such as biodiversity, water stress resilience, and carbon sequestration. Soil organic carbon, supported by plant roots and the soil microbiome, is crucial for linking water-stress resistance and biodiversity. A well-functioning soil boosts crop resilience to pests and water stress by improving soil 
-structure, carbon storage, and plant-microbe interactions. However, little is known about how increasing protein crop cultivation might impact soils. This WP will study the soil root interface and microbiomes to ensure the sustainability of protein crops while enhancing biodiversity. 
+This work package focuses on how climate-resilient food systems and novel protein crops can enhance soil ecosystem functions, such as biodiversity, water stress resilience, and carbon sequestration. Soil organic carbon, supported by plant roots and the soil microbiome, is crucial for linking water-stress resistance and biodiversity. A well-functioning soil boosts crop resilience to pests and water stress by improving soil structure, carbon storage, and plant-microbe interactions. However, little is known about how increasing protein crop cultivation might impact soils. This WP will study the soil root interface and microbiomes to ensure the sustainability of protein crops while enhancing biodiversity. 
 
 ## My research focus 
 
+Two PhD candidates are actively working on this WP, with me focusing on soil functionning and [Kimber Zonneveld](https://www.universiteitleiden.nl/en/staffmembers/kimber-zonneveld#tab-1) from Leiden University, focusing on soil microbiomes. 
 
 </div>

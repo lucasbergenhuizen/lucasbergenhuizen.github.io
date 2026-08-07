@@ -5,9 +5,7 @@ page-layout: full
 ---
 <div style="text-align: justify;">
 
-Here you can find a depository of my most precious botanical anectodes. Every plant has a story to tell, don't get me wrong. But the way we connect with them is deeply personal. What fascinates one person may not always move another. Depending on your background and your own relationship with plants, you may (or not) leave this place with a new sense of wonder.
-
-I am for instance a violet freak. I have loved these plant since my childhood and smelling their delicate fragrance always left me with a sense of joy. Though violets are modest plants with a rather simple structure, I also find them incredibly elegant and fascinating. So, while browsing this catalogue, do not be surprised to encounter quite a few of them once you reach the “V” section. If you prefer a more spontaneous approach, you can also use this magic button to randomly pick a plant card. Maybe you'll learn something!
+Here you can find a depository of my most precious botanical anectodes. Every plant has a story to tell, but the way we connect with them is also deeply personal. So while browsing this catalogue, do not be surprised to encounter for instance quite a few violets while going through the "V" section. If you prefer a more spontaneous approach, you can also use this magic button to randomly pick a plant card. Maybe you'll learn something!
 
 <div style="text-align:center;">
 <button onclick="randomPlant()" class="btn btn-success">
@@ -19,7 +17,7 @@ Magic button, show me a random plant
 
 <br>
 
-NB: If you ever visit the places where these pictures were taken in search of the species presented here, please note that I cannot guarantee they are still there, as I am not fully aware of the evolution of these botanical collections (or mother nature's gardening plans).
+NB: If you ever visit the places where these pictures were taken in search of the species, please note that I cannot guarantee they are still there, as I am not fully aware of the evolution of these botanical collections (or mother nature's gardening plans).
 
 </div>
 

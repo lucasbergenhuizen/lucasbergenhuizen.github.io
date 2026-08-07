@@ -148,7 +148,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#conferences-workshops-seminars" id="toc-conferences-workshops-seminars" class="nav-link active" data-scroll-target="#conferences-workshops-seminars">Conferences, workshops &amp; seminars</a></li>
+  <li><a href="#knowledge-deep-dives" id="toc-knowledge-deep-dives" class="nav-link active" data-scroll-target="#knowledge-deep-dives">Knowledge deep dives</a></li>
+  <li><a href="#social-events" id="toc-social-events" class="nav-link" data-scroll-target="#social-events">Social events</a></li>
   </ul>
 </nav>
     </div>
@@ -174,7 +175,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This section is dedicated to making small reviews, sharing and simplifying papers or concepts that I find particularly interesting and that might be useful for your own research too !</p>
+<section id="knowledge-deep-dives" class="level2">
+<h2 class="anchored" data-anchor-id="knowledge-deep-dives">Knowledge deep dives</h2>
+<p>This section is dedicated to making (and with time updating) small reviews, sharing and simplifying papers or key concepts that I find particularly interesting. I also added a comment section (connection through GitHub profiles), so if you want to add something or share a thought, please do!</p>
 <div class="filter-buttons">
 
 <button class="filter-btn active" onclick="filterSelection('all')">All</button>
@@ -205,6 +208,10 @@ Community Ecology
 
 <button class="filter-btn" onclick="filterSelection('microbes')">
 Microbes
+</button>
+
+<button class="filter-btn" onclick="filterSelection('climate')">
+Climate change
 </button>
 
 <button class="filter-btn" onclick="filterSelection('volunteering')">
@@ -245,13 +252,53 @@ function filterSelection(category) {
   });
 }
 </script>
-<section id="conferences-workshops-seminars" class="level1">
-<h1>Conferences, workshops &amp; seminars</h1>
-
-
 </section>
+<section id="social-events" class="level2">
+<h2 class="anchored" data-anchor-id="social-events">Social events</h2>
+<p>This section is dedicated to sharing practical events and talks that I’ll be giving or attending within various plant–soil science communities.</p>
+<div class="filter-buttons">
 
-</main> <!-- /main -->
+<button class="filter-btn active" onclick="filterSelection('all')">All</button>
+
+<button class="filter-btn" onclick="filterSelection('conference')">
+Conferences
+</button>
+
+<button class="filter-btn" onclick="filterSelection('workshop')">
+Workshops
+</button>
+
+<button class="filter-btn" onclick="filterSelection('talks')">
+Talks
+</button>
+
+</div>
+
+<!-- Add more cards here, one per article, following the same structure -->
+
+</section></main></div>
+
+<script>
+function filterSelection(category) {
+  document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+  event.target.classList.add('active');
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+    if (category === 'all') {
+      card.style.display = '';
+    } else {
+      const cats = card.getAttribute('data-categories').split(' ');
+      card.style.display = cats.includes(category) ? '' : 'none';
+    }
+  });
+}
+</script>
+
+
+
+
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -657,7 +704,7 @@ function filterSelection(category) {
     }
   });
   </script>
-</div> <!-- /content -->
+ <!-- /content -->
 
 
 

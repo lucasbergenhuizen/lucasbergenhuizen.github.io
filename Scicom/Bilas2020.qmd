@@ -62,3 +62,15 @@ Plants were traditionally seen as rather passive actors in their environment, in
 
 
 ## References
+
+## Comment section 
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+        repo="lucasbergenhuizen/lucasbergenhuizen.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+```
