@@ -736,4 +736,26 @@ below the subtitle.
   color: white;
 }
 
-// Title block Sci com
+// NEW FEATURES FOR SILVIA S CODE 
+
+
+/* Hero heading - index page */
+#hero-heading .about-links {
+  color: #5c8a67 !important;
+}
+
+#hero-heading .subtitle a {
+  color: #5c8a67;
+  text-decoration: none;
+  font-size: 0.95rem;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* About template image */
+.about-image {
+  border: 3px solid #dce9de;
+  box-shadow: 0 4px 18px rgba(79, 124, 89, 0.12);
+}

@@ -4,41 +4,50 @@ project:
 
 website:
   title: "Bergenhuizen et al."
+  site-url: https://lucasbergenhuizen.github.io
+  description: "PhD Candidate in Plant-Soil Interactions at Wageningen University"
+  page-navigation: true
+  back-to-top-navigation: true
+
+  comments:
+    utterances:
+      repo: lucasbergenhuizen/lucasbergenhuizen.github.io
+      label: utterances
+      theme: body-light
+      issue-term: title
+
   sidebar:
     style: floating
     pinned: false
     headroom: false
     align: center
     logo: images/profile.png
-
     tools:
       - icon: envelope
         href: "mailto:bergenhuizen.lucas@gmail.com"
-
       - icon: github
-        href: "https://github.com"
-
+        href: "https://github.com/lucasbergenhuizen"
       - icon: globe
         href: "https://www.researchgate.net/profile/Lucas-Bergenhuizen-2?ev=hdr_xprf"
-
       - icon: linkedin
         href: "https://www.linkedin.com/in/lucas-bergenhuizen/"
-
       - icon: person-badge
         href: "https://orcid.org/0009-0005-5104-6839"
 
   navbar:
-    pinned : false
+    pinned: false
     right:
       - href: about.qmd
         text: About
+        aria-label: "About Me"
 
       - text: Contributions
+        aria-label: "Research Contributions"
         menu:
           - href: contributions.qmd
             text: Overview
           - href: reap2sow.qmd
-            text: 🫛 REAP2SOW 
+            text: 🫛 REAP2SOW
           - href: sea2land.qmd
             text: 🥦 SEA2LAND
           - href: biofair.qmd
@@ -46,17 +55,38 @@ website:
 
       - href: sci-com.qmd
         text: Science Communication
+        aria-label: "Science Communication"
 
       - href: blog.qmd
         text: Blog
-        
+        aria-label: "Blog"
+
       - href: gallery.qmd
         text: Gallery
+        aria-label: "Gallery"
+
+  page-footer:
+    left: >-
+      &#169; 2026 Lucas Bergenhuizen &#8729; Made with [Quarto](https://quarto.org)
+    center: |
+      <a class="link-dark me-1" href="mailto:bergenhuizen.lucas@gmail.com" title="Email" target="_blank" rel="noopener"><i class="bi bi-envelope"></i></a>
+      <a class="link-dark me-1" href="https://github.com/lucasbergenhuizen" title="GitHub" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>
+      <a class="link-dark me-1" href="https://www.researchgate.net/profile/Lucas-Bergenhuizen-2?ev=hdr_xprf" title="ResearchGate" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a>
+      <a class="link-dark me-1" href="https://www.linkedin.com/in/lucas-bergenhuizen/" title="LinkedIn" target="_blank" rel="noopener"><i class="bi bi-linkedin"></i></a>
+      <a class="link-dark me-1" href="https://orcid.org/0009-0005-5104-6839" title="ORCID" target="_blank" rel="noopener"><i class="bi bi-person-badge"></i></a>
+      <a class="link-dark me-1" href="https://scholar.google.com/citations?user=Hz5hD70AAAAJ&hl=en&oi=ao" title="Google Scholar" target="_blank" rel="noopener"><i class="bi bi-mortarboard-fill"></i></a>
 
 format:
   html:
     theme:
-    - custom_theme.scss
+      light:
+        - cosmo
+        - assets/theme-light.scss
+        - _assets/colors-light.scss
+      dark:
+        - cosmo
+        - assets/theme-dark.scss
+        - _assets/colors-dark.scss
     smooth-scroll: true
     link-external-newwindow: true
     number-sections: false
@@ -64,5 +94,9 @@ format:
     toc-title: "Table of contents"
     toc-depth: 4
     toc-location: right
-    css: styles.css
     self-contained: false
+    code-link: true
+    lightbox: true
+
+execute:
+  freeze: auto

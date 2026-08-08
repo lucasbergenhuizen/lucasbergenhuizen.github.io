@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+
+// Your green palette
+$spc-bg-0:            #ffffff;   // main background
+$spc-bg-1:            #f4f7f3;   // slightly tinted background
+$spc-bg-00:           #edf3ee;   // subtle borders/shadows
+
+$spc-primary:         #263328;   // dark green (body text)
+$spc-primary-light:   #4f7c59;   // mid green (headings, primary)
+$spc-secondary:       #5c8a67;   // main brand green
+$spc-secondary-light: #3d6246;   // darker green (hover)
+$spc-accent:          #dce9de;   // subtle green (borders)
+$spc-accent-light:    #f7fbf7;   // very light green (sidebar bg)
+$spc-accent-dark:     #2e3b2f;   // deep green (sidebar text)
+
+// CSS variables (for use in plain CSS/HTML if needed)
+:root {
+  --spc-bg-0:            #ffffff;
+  --spc-bg-1:            #f4f7f3;
+  --spc-bg-00:           #edf3ee;
+  --spc-primary:         #263328;
+  --spc-primary-light:   #4f7c59;
+  --spc-secondary:       #5c8a67;
+  --spc-secondary-light: #3d6246;
+  --spc-accent:          #dce9de;
+  --spc-accent-light:    #f7fbf7;
+  --spc-accent-dark:     #2e3b2f;
+}

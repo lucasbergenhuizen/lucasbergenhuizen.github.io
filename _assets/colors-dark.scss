@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+// Your dark green palette
+$spc-bg-00:           #0d1410;   // deepest shadow
+$spc-bg-0:            #1a2320;   // main dark background
+$spc-bg-1:            #212d29;   // card/sidebar background
+$spc-bg-2:            #2a3830;   // elevated surfaces
+
+$spc-primary:         #e8f0e9;   // main text (near white, green tint)
+$spc-primary-light:   #f4f8f4;   // lightest text
+$spc-secondary:       #8ec99d;   // main brand green (lightened for dark bg)
+$spc-secondary-light: #a8d9b4;   // hover green
+$spc-accent:          #3a5445;   // subtle borders
+$spc-accent-light:    #243330;   // hover backgrounds
+$spc-accent-dark:     #7ab88a;   // headings/primary green
+
+// CSS variables (for use in plain CSS/HTML if needed)
+:root {
+  --spc-bg-00:           #0d1410;
+  --spc-bg-0:            #1a2320;
+  --spc-bg-1:            #212d29;
+  --spc-bg-2:            #2a3830;
+  --spc-primary:         #e8f0e9;
+  --spc-primary-light:   #f4f8f4;
+  --spc-secondary:       #8ec99d;
+  --spc-secondary-light: #a8d9b4;
+  --spc-accent:          #3a5445;
+  --spc-accent-light:    #243330;
+  --spc-accent-dark:     #7ab88a;
+}

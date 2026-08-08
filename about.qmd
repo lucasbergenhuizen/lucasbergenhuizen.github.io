@@ -1,67 +1,61 @@
 ---
-title: ""
+title: "Lucas Bergenhuizen"
+subtitle: "PhD Candidate in Plant-Soil Interactions 🌱🦠"
+image: images/profile2.png
+image-alt: "Profile picture of Lucas Bergenhuizen"
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: rounded
+  id: hero-heading
+  links:
+    - icon: envelope
+      aria-label: "Email"
+      href: mailto:lucas.bergenhuizen@wur.nl
+    - icon: github
+      aria-label: "GitHub"
+      href: https://github.com/lucasbergenhuizen
+    - icon: globe
+      aria-label: "ResearchGate"
+      href: https://www.researchgate.net/profile/Lucas-Bergenhuizen-2?ev=hdr_xprf
+    - icon: linkedin
+      aria-label: "LinkedIn"
+      href: https://www.linkedin.com/in/lucas-bergenhuizen/
+    - icon: mortarboard-fill
+      aria-label: "Google Scholar"
+      href: https://scholar.google.com/citations?user=Hz5hD70AAAAJ&hl=en&oi=ao
+    - icon: person-badge
+      aria-label: "ORCID"
+      href: https://orcid.org/0009-0005-5104-6839
+
 sidebar: false
 toc: true
+
+header-includes: >
+  <link rel="stylesheet" href="assets/about.css">
+resources:
+  - assets/about.css
 ---
 
-<div style="text-align: justify;">
+::: {#hero-heading}
 
-# Hi, I am Lucas
-
-```{=html}
-
-<div style="
-  display: flex;
-  align-items: flex-start;
-  gap: 2rem;
-  max-width: 1100px;
-  margin: 0 auto;
-">
-
-  <!-- PROFILE IMAGE -->
-
-  <div style="
-    flex-shrink: 0;
-  ">
-
-    <img src="images/profile2.png"
-      style="
-        width: 280px;
-        border-radius: 18px;
-        object-fit: cover;
-        display: block;
-      ">
-  </div>
-
-  <!-- TEXT -->
-
-  <div style="
-    text-align: justify;
-    max-width: 760px;
-  ">
-
-I am a curious and passionate plant-soil scientist with a huge interest in agroecology, ecosystem functioning, soils and more widely, botany. After graduating from a Master in Bioscience Engineering in Agricultural Sciences at the <a href="https://www.uliege.be/cms/c_8699436/en/uliege" style="text-decoration: none;">University of Liège</a> in Belgium, I worked as a research assistant at the <i>Plant Genetics and Rhizosphere Processes Laboratory</i> of <a href="https://www.gembloux.uliege.be/cms/c_4039827/en/gembloux-agro-bio-tech" style="text-decoration: none;">Gembloux Agro-Bio Tech</a>.
+I am a curious and passionate plant-soil scientist with a huge interest in agroecology, ecosystem functioning, soils and more widely, botany. After graduating from a Master in Bioscience Engineering in Agricultural Sciences at the [University of Liège](https://www.uliege.be/cms/c_8699436/en/uliege), I worked as a research assistant at the *Plant Genetics and Rhizosphere Processes Laboratory* of [Gembloux Agro-Bio Tech](https://www.gembloux.uliege.be/cms/c_4039827/en/gembloux-agro-bio-tech).
 
 Motivated by the desire to learn more about sustainable agriculture and how plants interact with their environment, I set out to find a research position in the Netherlands and landed an incredible research opportunity within the REAP2SOW project.
 
-Since June 2026, I have been working as a PhD candidate on the impact of novel protein crops on soil functions and on the role of their root exudates in soil carbon dynamics at <a href="https://www.wur.nl/en" style="text-decoration: none;">Wageningen University</a>.
+Since June 2026, I have been working as a PhD candidate on the impact of novel protein crops on soil functions and on the role of their root exudates in soil carbon dynamics at [Wageningen University](https://www.wur.nl/en).
 
-Besides the academic grind, I am also a plant nerd who likes to visit and volunteer in Botanical Gardens and share fun facts about the plant world !
+Besides the academic grind, I am also a plant nerd who likes to visit and volunteer in Botanical Gardens and share fun facts about the plant world!
 
-    </p>
+:::
 
-  </div>
-
-</div>
-
-```
 ## About this website
 
 On this website, you'll find a page dedicated to my scientific [CONTRIBUTIONS](contributions.qmd){style="text-decoration: none;"} with regular updates on my research project, a space on plant-soil related [SCIENCE COMMUNICATION](sci-com.qmd){style="text-decoration: none;"} where you can find small literature reviews of key concepts and conference related content, a [BLOG](blog.qmd){style="text-decoration: none;"} where I share more personal (but still pretty much plant-related) stuff, and finally a photo [GALLERY](gallery.qmd){style="text-decoration: none;"} to highlight some work-related moments.
 
 ## My current research topic
 
-Since June 2026, I started my PhD within the REAP2SOW project. This stands for "Resilient and Efficient Agricultural Proteins to Sustain Our World", a Dutch initiative that aims to develop sustainable, climate-resilient food systems by promoting novel plant-based protein crops that are not yet widely used in Europe (including quinoa, white lupin, and tuberous pea). My research work is part of the work package "Soil biodiversity and functioning", where I'll be investigating how these plants secretly feed microbes underground through their root exudates, and how this shapes soil properties such as carbon sequestration and porosity, ultimately affecting the system's resilience towards climate change. We still don't really know exactly what determines the prevailing effect of root exudates on these soil functions but it is very likely crop and soil dependent, and that's what we aim to find out for these three novel protein crops on different type of soils (below I made a little visual if you're curious about the more detailed cascading effects of root exudates on soil functioning).
+Since June 2026, I started my PhD within the REAP2SOW project. This stands for "Resilient and Efficient Agricultural Proteins to Sustain Our World", a Dutch initiative that aims to develop sustainable, climate-resilient food systems by promoting novel plant-based protein crops that are not yet widely used in Europe (including quinoa, white lupin, and tuberous pea). My research work is part of the work package "Soil biodiversity and functioning", where I'll be investigating how these plants secretly feed microbes underground through their root exudates, and how this shapes soil properties such as carbon sequestration and porosity, ultimately affecting the system's resilience towards climate change.
 
 ![](images/myphd.png){width=120% fig-align="center"}
 
@@ -94,11 +88,9 @@ Since June 2026, I started my PhD within the REAP2SOW project. This stands for "
     <div class="news-content">
       <span class="news-tag news-tag-milestone">Milestone</span>
       <h3>First scientific publication out in Environmental Research: Food Systems (IOP Science)</h3>
-      <p>Very proud to announce that my first-ever scientific paper has been published in the context of the <a href="https://sea2landproject.eu/">SEA2LAND H2020 Project ♻️🥦</a>. This work feels particularly special to me, as it grew out of my master’s thesis at the TERRA-Ecotron and my research assistantship at the University of Liège. <a href="https://iopscience.iop.org/article/10.1088/2976-601X/ae2d5b">DOI 10.1088/2976-601X/ae2d5b</a>. </p>
+      <p>Very proud to announce that my first-ever scientific paper has been published in the context of the <a href="https://sea2landproject.eu/">SEA2LAND H2020 Project ♻️🥦</a>. This work feels particularly special to me, as it grew out of my master's thesis at the TERRA-Ecotron and my research assistantship at the University of Liège. <a href="https://iopscience.iop.org/article/10.1088/2976-601X/ae2d5b">DOI 10.1088/2976-601X/ae2d5b</a>.</p>
     </div>
   </div>
 
 </div>
-</p>
 ```
-</div>
