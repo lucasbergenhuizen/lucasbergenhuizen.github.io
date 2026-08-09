@@ -105,5 +105,7 @@
   .about-image {
     order: 1 !important;
     padding: 2 2em 2em 2 !important;
+    align-items: center !important;
+
   }
 }
