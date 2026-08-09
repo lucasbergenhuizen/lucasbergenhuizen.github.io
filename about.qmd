@@ -1,6 +1,4 @@
 ---
-title: "Lucas Bergenhuizen"
-subtitle: "PhD Candidate in Plant-Soil Interactions 🌱🦠"
 image: images/profile2.png
 image-alt: "Profile picture of Lucas Bergenhuizen"
 about:
@@ -8,25 +6,6 @@ about:
   image-width: 14em
   image-shape: rounded
   id: hero-heading
-  links:
-    - icon: envelope
-      aria-label: "Email"
-      href: mailto:lucas.bergenhuizen@wur.nl
-    - icon: github
-      aria-label: "GitHub"
-      href: https://github.com/lucasbergenhuizen
-    - icon: globe
-      aria-label: "ResearchGate"
-      href: https://www.researchgate.net/profile/Lucas-Bergenhuizen-2?ev=hdr_xprf
-    - icon: linkedin
-      aria-label: "LinkedIn"
-      href: https://www.linkedin.com/in/lucas-bergenhuizen/
-    - icon: mortarboard-fill
-      aria-label: "Google Scholar"
-      href: https://scholar.google.com/citations?user=Hz5hD70AAAAJ&hl=en&oi=ao
-    - icon: person-badge
-      aria-label: "ORCID"
-      href: https://orcid.org/0009-0005-5104-6839
 
 sidebar: false
 toc: true
@@ -38,6 +17,8 @@ resources:
 ---
 
 ::: {#hero-heading}
+
+## Hi, I am Lucas !
 
 I am a curious and passionate plant-soil scientist with a huge interest in agroecology, ecosystem functioning, soils and more widely, botany. After graduating from a Master in Bioscience Engineering in Agricultural Sciences at the [University of Liège](https://www.uliege.be/cms/c_8699436/en/uliege), I worked as a research assistant at the *Plant Genetics and Rhizosphere Processes Laboratory* of [Gembloux Agro-Bio Tech](https://www.gembloux.uliege.be/cms/c_4039827/en/gembloux-agro-bio-tech).
 
