@@ -103,7 +103,6 @@
 
   /* move image up, adjust padding */
   .about-image {
-    order: 1 !important;
-    padding: 0 0 0 0em !important;
+    justify-content: center !important;
   }
 }
