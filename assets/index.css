@@ -103,11 +103,8 @@
 
   /* move image up, adjust padding */
   .about-image {
-    justify-content: center !important;
     display: flex !important;
-    order: 1 !important;
     padding: 0 0 0 0em !important;
-    display: flex !important;
     justify-content: center !important;
   }
 }
