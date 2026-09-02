@@ -104,7 +104,8 @@
   /* move image up, adjust padding */
   .about-image {
     display: flex !important;
-    padding: 0 0 0 0em !important;
+    padding: 0 !important;
+    margin-right: 0 !important;
     justify-content: center !important;
   }
 }
