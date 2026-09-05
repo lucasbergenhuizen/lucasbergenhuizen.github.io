@@ -14,7 +14,6 @@ twitter-card:
 about:
   template: solana
   image-width: 26em
-  image-shape: round
   id: hero-heading
   links:
     - icon: envelope
