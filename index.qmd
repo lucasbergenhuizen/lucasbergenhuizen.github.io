@@ -44,7 +44,10 @@ execute:
   echo: false
   warning: false
 
-css: assets/index.css
+header-includes: >
+  <link rel="stylesheet" href="assets/index.css">
+resources:
+  - assets/index.css
 ---
 
 <br><br>
