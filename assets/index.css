@@ -47,11 +47,9 @@
 
 /* image */
 .about-image {
-  margin-top: 1em;
-  margin-right: 7em;
-  padding: 2 2em 2em 2;
+  margin-top: -2em;
+  padding: 0 2em 0em 0;
 }
-
 
 /* // Home
 
@@ -102,12 +100,10 @@
   }
 
   /* move image up, adjust padding */
-   img.about-image.rounded {
-    display: block !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    max-width: 100% !important;
-    height: auto !important;
+   .about-image {
+    order: 1 !important;
+    padding: 0 2em 0 2em !important;
   }
 }
+
 
