@@ -102,33 +102,21 @@
   }
 
   /* move image up, adjust padding */
-   .about-image {
-    position: relative !important;
-    left: auto !important;
-    right: auto !important;
-    transform: none !important;
-
+   .quarto-about-solana .about-entity {
     width: 100% !important;
     max-width: 100% !important;
-
-    margin: 0 auto !important;
-    padding: 0 !important;
-
-    display: flex !important;
-    justify-content: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
 
-  .about-image img {
-    position: relative !important;
+  /* Center the image within the entity */
+  .quarto-about-solana .about-image {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    transform: none !important;
     left: auto !important;
     right: auto !important;
-    transform: none !important;
-
-    display: block !important;
-    width: auto !important;
-    max-width: 100% !important;
-
-    margin: 0 auto !important;
   }
 }
 
