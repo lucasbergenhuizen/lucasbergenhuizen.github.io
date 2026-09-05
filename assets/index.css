@@ -102,11 +102,33 @@
   }
 
   /* move image up, adjust padding */
-  .about-image {
-    display: flex !important;
+   .about-image {
+    position: relative !important;
+    left: auto !important;
+    right: auto !important;
+    transform: none !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin: 0 auto !important;
     padding: 0 !important;
-    margin-right: 0 !important;
+
+    display: flex !important;
     justify-content: center !important;
+  }
+
+  .about-image img {
+    position: relative !important;
+    left: auto !important;
+    right: auto !important;
+    transform: none !important;
+
+    display: block !important;
+    width: auto !important;
+    max-width: 100% !important;
+
+    margin: 0 auto !important;
   }
 }
 
