@@ -103,7 +103,8 @@
 
   /* move image up, adjust padding */
    .about-image {
-    display: none !important;
+    order: 1 !important;
+    padding: 0 2em 0 2em !important;
   }
 }
 
