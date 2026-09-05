@@ -102,21 +102,9 @@
   }
 
   /* move image up, adjust padding */
-   .quarto-about-solana .about-entity {
-    width: 100% !important;
-    max-width: 100% !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-  }
-
-  /* Center the image within the entity */
-  .quarto-about-solana .about-image {
-    display: block !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    transform: none !important;
-    left: auto !important;
-    right: auto !important;
+   .about-image {
+    order: 1 !important;
+    padding: 0 2em 0 2em !important;
   }
 }
 
