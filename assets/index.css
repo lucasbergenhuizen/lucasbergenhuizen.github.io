@@ -101,9 +101,10 @@
 
   /* move image up, adjust padding */
    .about-image {
-    order: 1 !important;
-    padding: 0 2em 0 2em !important;
+    display: flex !important;
+    padding: 0 !important;
+    margin-right: 0 !important;
+    justify-content: center !important;
   }
 }
-
 
