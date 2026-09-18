@@ -147,19 +147,21 @@ NB: If you ever visit the places where these pictures were taken in search of th
 <script>
 
 function randomPlant() {
-
   const cards = document.querySelectorAll('.plant-card img');
-
   const randomIndex = Math.floor(Math.random() * cards.length);
-
   const chosenImg = cards[randomIndex].src;
 
   document.getElementById('random-output').innerHTML = `
     <img src="${chosenImg}" 
          style="
            width: 800px;
+           max-width: 100%;
+           height: auto;
            border-radius: 12px;
            margin-top: 20px;
+           display: block;
+           margin-left: auto;
+           margin-right: auto;
          ">
   `;
 }

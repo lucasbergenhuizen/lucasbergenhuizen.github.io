@@ -7,15 +7,32 @@ page-layout: full
 
 Highlights of the life of a plant-soil scientist 🧑‍🔬🌱🔬🌦️
 
-<div style="
+<style>
+@media screen and (max-width: 768px) {
+  .gallery-grid {
+    flex-direction: column !important;
+  }
+  .gallery-grid img {
+    width: 100% !important;
+  }
+}
+</style>
+
+<div class="gallery-grid" style="
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   gap: 5px;
 ">
 
-  <img src="images/gallery/3.png" style="width: calc(33.333% - 4px); object-fit: cover;">
-  <img src="images/gallery/2.png" style="width: calc(33.333% - 4px); object-fit: cover;">
-  <img src="images/gallery/1.png" style="width: calc(33.333% - 4px); object-fit: cover;">
+  <a href="images/gallery/3.png" target="_blank">
+    <img src="images/gallery/3.png" style="width: calc(33.333% - 4px); object-fit: cover;">
+  </a>
+  <a href="images/gallery/2.png" target="_blank">
+    <img src="images/gallery/2.png" style="width: calc(33.333% - 4px); object-fit: cover;">
+  </a>
+  <a href="images/gallery/1.png" target="_blank">
+    <img src="images/gallery/1.png" style="width: calc(33.333% - 4px); object-fit: cover;">
+  </a>
 
 </div>

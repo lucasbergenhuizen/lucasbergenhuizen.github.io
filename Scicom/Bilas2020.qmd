@@ -2,9 +2,6 @@
 title: "Plants have a social life too"
 sidebar: false
 toc: false
-render:
-    - "*.qmd"
-    - "!draft-page.qmd"  # excluded from rendering
 author: Lucas Bergenhuizen
 date: 2026-06-28
 date-modified: 2026-06-26
