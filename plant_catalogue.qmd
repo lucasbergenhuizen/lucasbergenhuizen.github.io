@@ -5,7 +5,7 @@ page-layout: full
 ---
 <div style="text-align: justify;">
 
-Here you can find a depository of my most precious botanical anectodes. Every plant has a story to tell, but the way we connect with them is also deeply personal. So while browsing this catalogue, do not be surprised to encounter for instance quite a few violets while going through the "V" section. If you prefer a more spontaneous approach, you can also use this magic button to randomly pick a plant card. Maybe you'll learn something!
+Every plant has a story to tell ! But some are truly out of the ordinary. Here you can find a depository of my most precious botanical anectodes gathered across different gardens, walks or talks with other plant enthusiasts. For a more fun and spontaneous approach, you can use this magic button to randomly pick a plant card. Maybe you'll learn something!
 
 <div style="text-align:center;">
 <button onclick="randomPlant()" class="btn btn-success">

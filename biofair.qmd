@@ -9,7 +9,7 @@ page-layout: full
 
 ## BIOFAIR : BIOdiversity of soils and FArming Innovations for improved Resilience in European wheat agrosystems
 
-The goal of BIOFAIR is to determine the impact of climate change on the functional soil biome, from microbes to mites, and to identify innovative farming practices that foster soil health and plant productivity in a sustainable way [Link to the project website](https://www.biofair.uliege.be/cms/c_6757815/en/biofair)
+The goal of BIOFAIR was to determine the impact of climate change on the functional soil biome and to identify innovative farming practices that foster soil health and plant productivity in a sustainable way [Link to the project website](https://www.biofair.uliege.be/cms/c_6757815/en/biofair)
 
 ## WP2: Innovative farming practices & WP4: Functional soil biodiversity
 

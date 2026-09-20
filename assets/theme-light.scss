@@ -451,6 +451,10 @@ details > summary { color: $body-secondary; }
     justify-content: center !important;
   }
 
+  .navbar-brand {
+    font-size: 0.75rem !important;
+  }
+
   .nav-footer { flex-direction: row; }
 
   .nav-footer-center {

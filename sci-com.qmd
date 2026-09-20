@@ -21,6 +21,14 @@ Soil processes
 Plant-soil interactions
 </button>
 
+<button class="filter-btn" onclick="filterSelection('acad')">
+Academia
+</button>
+
+<button class="filter-btn" onclick="filterSelection('prot')">
+Protein crops
+</button>
+
 <button class="filter-btn" onclick="filterSelection('ppi')">
 Plant-plant interactions
 </button>
@@ -45,8 +53,8 @@ Microbes
 Climate change
 </button>
 
-<button class="filter-btn" onclick="filterSelection('volunteering')">
-Botany
+<button class="filter-btn" onclick="filterSelection('soil carbon')">
+Soil carbon
 </button>
 
 </div>
