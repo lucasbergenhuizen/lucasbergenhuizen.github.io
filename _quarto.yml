@@ -71,10 +71,9 @@ website:
     center: |
       <a class="link-dark me-1" href="mailto:bergenhuizen.lucas@gmail.com" title="Email" target="_blank" rel="noopener"><i class="bi bi-envelope"></i></a>
       <a class="link-dark me-1" href="https://github.com/lucasbergenhuizen" title="GitHub" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>
-      <a class="link-dark me-1" href="https://www.researchgate.net/profile/Lucas-Bergenhuizen-2?ev=hdr_xprf" title="ResearchGate" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a>
       <a class="link-dark me-1" href="https://www.linkedin.com/in/lucas-bergenhuizen/" title="LinkedIn" target="_blank" rel="noopener"><i class="bi bi-linkedin"></i></a>
       <a class="link-dark me-1" href="https://orcid.org/0009-0005-5104-6839" title="ORCID" target="_blank" rel="noopener"><i class="bi bi-person-badge"></i></a>
-      <a class="link-dark me-1" href="https://scholar.google.com/citations?user=Hz5hD70AAAAJ&hl=en&oi=ao" title="Google Scholar" target="_blank" rel="noopener"><i class="bi bi-mortarboard-fill"></i></a>
+      <a class="link-dark me-1" href="https://www.researchgate.net/profile/Lucas-Bergenhuizen-2?ev=hdr_xprf" title="Google Scholar" target="_blank" rel="noopener"><i class="bi bi-mortarboard-fill"></i></a>
 
 format:
   html:

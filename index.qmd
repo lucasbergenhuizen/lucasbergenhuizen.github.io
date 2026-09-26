@@ -28,9 +28,6 @@ about:
     - icon: linkedin
       aria-label: "LinkedIn"
       href: https://www.linkedin.com/in/lucas-bergenhuizen/
-    - icon: globe
-      aria-label: "Google Scholar"
-      href: https://scholar.google.com/citations?user=Hz5hD70AAAAJ&hl=en&oi=ao
     - icon: person-badge
       aria-label: "ORCID"
       href: https://orcid.org/0009-0005-5104-6839
@@ -54,7 +51,7 @@ resources:
 
 ::: {#hero-heading}
 
-I am a plant scientist with a huge interest in soils, agroecology, ecosystem functioning and more widely, botany. I am currently doing a PhD on plant-soil interactions in novel protein crops at Wageningen University. On this website, I will share some pieces of my academic journey but also some more personal content, so if you're into sustainable agriculture, plant-soil dynamics or botanical fun facts, you might find some cool stuff here.
+I am a scientist with a huge interest in plants, soils, agroecology and ecosystem functioning. I am currently doing a PhD on plant-soil interactions in novel protein crops at Wageningen University. On this website, I share some pieces of my research journey but also more personal content, so if you're into sustainable agriculture, soil science or botanical fun facts, you might find some cool stuff here.
 
 [Learn more about me →](about.qmd){.about-links .subtitle}
 
