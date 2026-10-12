@@ -59,9 +59,9 @@ Soil carbon
 
 </div>
 
-<div id="card-grid" class="card-grid">
+<!-- <div id="card-grid" class="card-grid">
 
-<div class="card" data-categories="ppi psi community">
+ <div class="card" data-categories="ppi psi community">
   <a href="Scicom/Bilas2020.qmd">
     <img src="Scicom/bilas2020.png" alt="Plants have a social life too">
     <div class="card-content">
@@ -71,7 +71,7 @@ Soil carbon
   </a>
 </div>
 
-<!-- Add more cards here, one per article, following the same structure -->
+Add more cards here, one per article, following the same structure -->
 
 </div>
 

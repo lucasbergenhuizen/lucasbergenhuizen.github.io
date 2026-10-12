@@ -9,7 +9,6 @@ page-layout: full
 <div style="text-align: justify;">
 
 ## REAP2SOW: Resilient and Efficient Agricultural Proteins to Sustain Our World
-<div style="text-align: justify;">
 
 REAP2SOW is a multi-actor collaborative effort to shift the protein consumption of the Dutch public to 70% plant-based by 2050. The project aims to do this by developing three novel crops (quinoa, white lupin, aardaker) that have great potential to enhance biodiversity, improve soil health, and support the protein transition. Through its interlinked workpackages, the project integrates research on breeding, soil ecosystem functions, cultivation practices, consumer behavior, health impacts, historical perspectives and supply chains. [Link to the project website](https://reap2sow.nl/) 
 

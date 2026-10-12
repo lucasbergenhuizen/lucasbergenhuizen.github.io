@@ -5,7 +5,7 @@ page-layout: full
 ---
 <div style="text-align: justify;">
 
-Every plant has a story to tell ! But some are truly out of the ordinary. Here you can find a depository of my most precious botanical anectodes gathered across different gardens, walks or talks with other plant enthusiasts. For a more fun and spontaneous approach, you can use this magic button to randomly pick a plant card. Maybe you'll learn something!
+Every plant has a story to tell ! But some are truly out of the ordinary. Here you can find a depository of my most precious botanical anectodes gathered across different gardens, walks or talks with other plant enthusiasts. For a more fun and spontaneous approach, you can click on this button to randomly pick a plant card. Maybe you'll learn something!
 
 <div style="text-align:center;">
 <button onclick="randomPlant()" class="btn btn-success">
@@ -58,6 +58,14 @@ NB: If you ever visit the places where these pictures were taken in search of th
 
 ## C {#C}
 
+<div class="plant-card">
+
+### *Cynorkis fastigiata Thouars*
+
+![](images/plantcatalogue/cynorkisfastigiata.png){width=400px}
+
+</div>
+
 ## D {#D}
 
 ## E {#E}
@@ -108,6 +116,13 @@ NB: If you ever visit the places where these pictures were taken in search of th
 
 </div>
 
+<div class="plant-card">
+
+### *Primula vialii Delavay ex Franch.*
+
+![](images/plantcatalogue/primulavialii.png){width=400px}
+
+</div>
 ## Q {#Q}
 
 ## R {#R}
